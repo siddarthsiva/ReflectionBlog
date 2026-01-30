@@ -1,0 +1,4 @@
+baseURL = 'https://ReflectionBlog.org/'
+languageCode = 'en-us'
+title = 'Reflection Blog'
+theme = 'ananke'
