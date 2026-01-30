@@ -6,6 +6,21 @@
     <description>Recent content on Reflection Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2026 17:09:57 +0530</lastBuildDate>
     <atom:link href="https://ReflectionBlog.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://ReflectionBlog.org/posts/introduction/</link>
+      <pubDate>Fri, 30 Jan 2026 17:09:57 +0530</pubDate>
+      <guid>https://ReflectionBlog.org/posts/introduction/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello, my name is Siddarth Sivakumar a first year student studying Information sciences in Azim premji university, Bangalore.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Week 1</title>
+      <link>https://ReflectionBlog.org/posts/week_1/</link>
+      <pubDate>Fri, 30 Jan 2026 15:28:25 +0530</pubDate>
+      <guid>https://ReflectionBlog.org/posts/week_1/</guid>
+      <description>&lt;h2 id=&#34;week-1&#34;&gt;Week 1&lt;/h2&gt;&#xA;&lt;p&gt;In the first week of the Becoming a reflective information scientist course we looked at Wiki&amp;rsquo;s and Markdown. The lab session and the class before it were used to explain how essential wiki are in order to share and democratize information. In the lab session we practiced markdown which is a markup language that allows the writer to format text using readable and simple syntax. The tool we used to write in Markdown is called Zettlr which is a free to use open source note-taking platform. The three sessions we had over the course of the week taught me skills that will be valuable over the course of my academic journey since tools like Zettlr will come in clutch for any writing work I encounter and Wiki&amp;rsquo;s are a great way of sharing information.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

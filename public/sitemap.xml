@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ReflectionBlog.org/categories/</loc>
+    <loc>https://ReflectionBlog.org/posts/introduction/</loc>
+    <lastmod>2026-01-30T17:09:57+05:30</lastmod>
+  </url><url>
+    <loc>https://ReflectionBlog.org/posts/</loc>
+    <lastmod>2026-01-30T17:09:57+05:30</lastmod>
   </url><url>
     <loc>https://ReflectionBlog.org/</loc>
+    <lastmod>2026-01-30T17:09:57+05:30</lastmod>
+  </url><url>
+    <loc>https://ReflectionBlog.org/posts/week_1/</loc>
+    <lastmod>2026-01-30T15:28:25+05:30</lastmod>
+  </url><url>
+    <loc>https://ReflectionBlog.org/categories/</loc>
   </url><url>
     <loc>https://ReflectionBlog.org/tags/</loc>
   </url>
