@@ -6,21 +6,28 @@
     <description>Recent content on Reflection Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 18:47:22 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 16:06:08 +0530</lastBuildDate>
     <atom:link href="https://ReflectionBlog.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UNIT3</title>
+      <link>https://ReflectionBlog.org/posts/unit3/</link>
+      <pubDate>Thu, 09 Apr 2026 16:06:08 +0530</pubDate>
+      <guid>https://ReflectionBlog.org/posts/unit3/</guid>
+      <description>&lt;h2 id=&#34;unit-3&#34;&gt;UNIT 3&lt;/h2&gt;&#xA;&lt;p&gt;I always knew failure was an important part of learning but after reading part of Amy Edmondson&amp;rsquo;s &lt;strong&gt;Right Kind of Wrong&lt;/strong&gt;, I understood that just failing isn&amp;rsquo;t enough if we do not understand the type of failure and make it legible to break down and learn from.&lt;/p&gt;&#xA;&lt;p&gt;The book spoke of three distinct failure types: basic, complex, and intelligent. This was an unfamiliar concept to me. I always looked at failure as a monolithic thing, as Edmondson put it best; something that happens when you aren&amp;rsquo;t careful enough or not prepared enough. The concept of intelligent failures interested me the most. In the book, Amy talks about an example from her journey into the scientific community where what she initially perceived as a disaster when her research data suggested that better hospital teams made more mistakes instead of the other way around, as intuition might suggest. This “wrong” result, as the prologue explains, was her first intelligent failure. The “failure” didn’t end her career but revealed that high-performing teams felt safe enough to report errors, which led to her discovering psychological safety. This example changed my perspective on how to look at results that don’t justify the thesis of whatever I am working on.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>UNIT2</title>
       <link>https://ReflectionBlog.org/posts/unit-2/</link>
       <pubDate>Thu, 19 Mar 2026 18:47:22 +0530</pubDate>
       <guid>https://ReflectionBlog.org/posts/unit-2/</guid>
-      <description>&lt;h2 id=&#34;unit-2&#34;&gt;UNIT 2&lt;/h2&gt;&#xA;&lt;p&gt;Unit 2 pushed me to think about information as not just something we consume and have to organise but as something we need to &lt;strong&gt;model, transform and optimise&lt;/strong&gt;. The classes we had covered a lot of ground (which was overwhelming at times) image transformations, optimisation problems, and the ideas of &lt;strong&gt;modelling and abstraction&lt;/strong&gt; and while some of it was definitely challenging, it was also where things started to come together and fell more concrete.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;unit-2&#34;&gt;UNIT 2&lt;/h2&gt;&#xA;&lt;p&gt;Unit 2 pushed me to think about information as not just something we consume and have to organise but as something we need to &lt;strong&gt;model, transform, and optimise&lt;/strong&gt;. The classes we had covered a lot of ground (which was overwhelming at times) image transformations, optimisation problems, and the ideas of &lt;strong&gt;modelling and abstraction&lt;/strong&gt; and while some of it was definitely challenging, it was also where things started to come together and fell more concrete.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UNIT1</title>
       <link>https://ReflectionBlog.org/posts/unit-1/</link>
       <pubDate>Thu, 19 Mar 2026 18:42:32 +0530</pubDate>
       <guid>https://ReflectionBlog.org/posts/unit-1/</guid>
-      <description>&lt;h2 id=&#34;unit-1&#34;&gt;UNIT 1&lt;/h2&gt;&#xA;&lt;p&gt;Over the first three weeks of the course, we covered &lt;strong&gt;wikis&lt;/strong&gt;, &lt;strong&gt;Markdown&lt;/strong&gt;,&#xA;the &lt;strong&gt;DIKW model&lt;/strong&gt;, and eventually set up the very blog you are reading now.&#xA;The lab sessions and theory classes were used to explain how essential wikis&#xA;are in order to share and &lt;strong&gt;democratize information&lt;/strong&gt;. In the lab we practised&#xA;&lt;strong&gt;Markdown&lt;/strong&gt;, which is a markup language that allows the writer to format text&#xA;using &lt;strong&gt;readable and simple syntax&lt;/strong&gt;. The tool we used to write in Markdown is&#xA;called &lt;strong&gt;Zettlr&lt;/strong&gt;, which is a &lt;strong&gt;free to use open-source note-taking platform&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;unit-1&#34;&gt;UNIT 1&lt;/h2&gt;&#xA;&lt;p&gt;Over the first three weeks of the course, we covered &lt;strong&gt;wikis&lt;/strong&gt;, &lt;strong&gt;Markdown&lt;/strong&gt;,&#xA;and the &lt;strong&gt;DIKW model&lt;/strong&gt;. The lab sessions and theory classes were used to&#xA;explain how essential wikis are in order to share and &lt;strong&gt;democratize information&lt;/strong&gt;. In the lab we practised&#xA;&lt;strong&gt;Markdown&lt;/strong&gt;, which is a markup language that allows the writer to format text&#xA;using &lt;strong&gt;readable and simple syntax&lt;/strong&gt;. The tool we used to write in Markdown is&#xA;called &lt;strong&gt;Zettlr&lt;/strong&gt;, which is a &lt;strong&gt;free to use open-source note-taking platform&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction</title>
