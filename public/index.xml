@@ -6,8 +6,22 @@
     <description>Recent content on Reflection Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 16:06:08 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 22:06:47 +0530</lastBuildDate>
     <atom:link href="https://ReflectionBlog.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UNIT5</title>
+      <link>https://ReflectionBlog.org/posts/unit5/</link>
+      <pubDate>Mon, 11 May 2026 22:06:47 +0530</pubDate>
+      <guid>https://ReflectionBlog.org/posts/unit5/</guid>
+      <description>&lt;h2 id=&#34;unit-5&#34;&gt;UNIT 5&lt;/h2&gt;&#xA;&lt;p&gt;When I think of the tech industry, sustainability is never the first thing that comes to my mind. Despite most large tech companies having some sort of ESG framework, it is obvious that these strategies don&amp;rsquo;t actually serve the environment but instead just server the shareholders. The article that we based our presentation on for this unit covers the details of how little companies actually do help protect our environment while also looking at the issue from a regulatory standpoint.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UNIT4</title>
+      <link>https://ReflectionBlog.org/posts/unit4/</link>
+      <pubDate>Mon, 11 May 2026 22:06:38 +0530</pubDate>
+      <guid>https://ReflectionBlog.org/posts/unit4/</guid>
+      <description>&lt;h2 id=&#34;unit-4&#34;&gt;UNIT 4&lt;/h2&gt;&#xA;&lt;p&gt;This unit consisted of two separate projects where the first involved us creating a dashboard on Metabase and the other task was to create a chatbot.&lt;/p&gt;&#xA;&lt;p&gt;The Metabase project was challenging in primarily two different aspects: writing SQL queries and figuring out what and how we as a group can present ‌multiple aspects that can be visualized using the data set provided and still make a cohesive story.&#xA;To find out what each of the dashboards should represent we as a team did some research on what types of charts can be made using the data in the set and then thought of ways to connect different charts to our individual topics and later to make a cohesive group of dashboards. I focused on finding ways of showing the capabilities and limitations of the data set. I am already familiar with Metabase since I have used it before ‌coming to university and I always enjoy using it whenever I have the opportunity.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>UNIT3</title>
       <link>https://ReflectionBlog.org/posts/unit3/</link>
